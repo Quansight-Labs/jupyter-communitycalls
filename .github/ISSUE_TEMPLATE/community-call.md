@@ -20,7 +20,7 @@ links for the upcoming call.-->
 
 - [ ] Update [Jupyter Discourse wiki](https://discourse.jupyter.org/t/jupyter-community-calls/668) and/or add a comment 2 weeks before
 - [ ] Blog (For example: https://blog.jupyter.org/november-2024-jupyter-community-call-f5d0761c67a1)
-- [ ] Social media 2 weeks before (email Jupyter media strategy group) 
+- [ ] Social media 2 weeks before (email [Jupyter media strategy group](mailto:jupyter-media-strategy@googlegroups.com)) 
 - [ ] Post issue to [jupyterhub/team-compass](https://github.com/jupyterhub/team-compass/) 2 weeks before
 - [ ] Post on [Jupyter Discourse](https://github.com/jupyterhub/team-compass/) 1 week before
 - [ ] Post on [Jupyter mailing list](https://groups.google.com/g/jupyter/) 1 week before
