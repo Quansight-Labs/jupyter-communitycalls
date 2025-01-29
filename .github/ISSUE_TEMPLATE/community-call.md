@@ -27,7 +27,7 @@ links for the upcoming call.-->
 - [ ] Post on [Jupyter mailing list](https://groups.google.com/g/jupyter/) 1 week before
 - [ ] Discourse: https://discourse.jupyter.org/c/meta/community-building/49 
 - [ ] Open an issue on Governance repo: https://github.com/jupyter/governance/issues/241 
-- [ ] Send email to SSC and ask them to distribute
+- [ ] Send email to [SSC](mailto:jupyter-software-steering-council@googlegroups.com) and ask them to distribute
 - [ ] Join subproject meetings?
 
 ### Recording
